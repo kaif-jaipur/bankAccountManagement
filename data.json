@@ -1,1 +1,76 @@
-[{"name": "mk", "age": 23, "email": "mk@gmail.com", "pin": 1235, "accountNo.": "o*oC0", "balance": 0}]
+{
+  "accounts": [
+    {
+      "name": "mk",
+      "age": 23,
+      "email": "mk@gmail.com",
+      "pin": 1235,
+      "accountNo.": "o*oC0",
+      "balance": 0
+    },
+    {
+      "name": "mohammad kaif",
+      "age": 22,
+      "email": "mohammadkaif@gmail.com",
+      "pin": 1234,
+      "accountNo.": "@243QEa",
+      "balance": 0
+    },
+    {
+      "name": "anuj",
+      "age": 21,
+      "email": "anuj@gmail.com",
+      "pin": 1234,
+      "accountNo": "7X@41Pe",
+      "balance": 1800
+    },
+    {
+      "name": "Test",
+      "age": 25,
+      "email": "test@test.com",
+      "pin": 1234,
+      "accountNo": "3q9He*2",
+      "balance": 0
+    },
+    {
+      "name": "Test",
+      "age": 25,
+      "email": "test@test.com",
+      "pin": 1234,
+      "accountNo": "S3vO#44",
+      "balance": 0
+    },
+    {
+      "name": "mk",
+      "age": 23,
+      "email": "mohammad@gmail.com",
+      "pin": 1234,
+      "accountNo": "IVP162",
+      "balance": 0
+    },
+    {
+      "name": "sohal",
+      "age": 23,
+      "email": "sohal@gmail.com",
+      "pin": 1234,
+      "accountNo": "YEE895",
+      "balance": 0
+    }
+  ],
+  "staff": [
+    {
+      "id": "01",
+      "password": "0101",
+      "name": "mk"
+    },
+    {
+      "id": "cashier",
+      "password": "1234",
+      "name": "ali"
+    }
+  ],
+  "manager": {
+    "id": "admin",
+    "password": "1234"
+  }
+}

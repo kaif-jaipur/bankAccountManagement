@@ -1,0 +1,8 @@
+{
+  "accounts": [],
+  "staff": [],
+  "manager": {
+    "id": "admin",
+    "password": "1234"
+  }
+}
